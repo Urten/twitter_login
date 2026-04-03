@@ -5,7 +5,7 @@
 __pycache__
 /.vscode
 .cache
-/*.txt
+.txt
 /*.mp4
 # Byte-compiled / optimized / DLL files
 __pycache__/
