@@ -1,4 +1,4 @@
-/*.py
+
 # !/config.py
 # !/main.py
 /*.json
@@ -9,7 +9,6 @@ __pycache__
 /*.mp4
 # Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[codz]
 *$py.class
 
 # C extensions
